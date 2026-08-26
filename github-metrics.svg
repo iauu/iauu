@@ -226,7 +226,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="201.84805661048992" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="201.84805661048992" y="0" width="143.82974736153713" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="201.84805661048992" y="0" width="143.82974736153713" height="8" fill="#7355dd"/>
                     <rect mask="url(#languages-bar)" x="345.67780397202705" y="0" width="84.60690996890017" height="8" fill="#dea584"/>
                     <rect mask="url(#languages-bar)" x="430.2847139409272" y="0" width="8.866940136561071" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="439.1516540774883" y="0" width="7.412019441381472" height="8" fill="#3178c6"/>
@@ -289,7 +289,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#7355dd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 C#
                             </div>
@@ -719,7 +719,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2026, 17:12:11 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 26 Aug 2026, 19:51:20 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
